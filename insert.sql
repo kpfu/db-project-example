@@ -1,0 +1,1 @@
+INSERT INTO groups (name, year) VALUES ('963п', 2006);
